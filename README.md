@@ -35,6 +35,9 @@ The game progressively increases in difficulty by speeding up animations and inc
 - Trigonometric functions used to create smooth arc animations for cup swaps
 - Difficulty scaling controlled by adjustable constants
 
+### Setup
+This project uses Draw.py for graphics.
+
 ### How to Run
 
 Make sure `Draw.py` is installed and available.
